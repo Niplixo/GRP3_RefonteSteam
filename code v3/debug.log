@@ -1,0 +1,28 @@
+[0924/224517.235:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Program Files (x86)\Goldleaf\Reports\Dump: Le chemin d’accès spécifié est introuvable. (0x3)
+[0924/224517.244:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Le canal de communication a été fermé. (0x6D)
+[0924/224517.245:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Program Files (x86)\Goldleaf\Reports\Dump: Le chemin d’accès spécifié est introuvable. (0x3)
+[0925/092100.404:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Program Files (x86)\Goldleaf\Reports\Dump: Le chemin d’accès spécifié est introuvable. (0x3)
+[0925/092100.408:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Le canal de communication a été fermé. (0x6D)
+[0925/092100.412:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Program Files (x86)\Goldleaf\Reports\Dump: Le chemin d’accès spécifié est introuvable. (0x3)
+[0925/092103.103:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Program Files (x86)\Goldleaf\Reports\Dump: Le chemin d’accès spécifié est introuvable. (0x3)
+[0925/092103.111:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Le canal de communication a été fermé. (0x6D)
+[0925/092103.111:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Program Files (x86)\Goldleaf\Reports\Dump: Le chemin d’accès spécifié est introuvable. (0x3)
+[0926/093137.354:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Program Files (x86)\Goldleaf\Reports\Dump: Le chemin d’accès spécifié est introuvable. (0x3)
+[0926/093137.374:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Le canal de communication a été fermé. (0x6D)
+[0926/093137.376:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Program Files (x86)\Goldleaf\Reports\Dump: Le chemin d’accès spécifié est introuvable. (0x3)
+[0926/093150.696:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Program Files (x86)\Goldleaf\Reports\Dump: Le chemin d’accès spécifié est introuvable. (0x3)
+[0926/093150.711:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Le canal de communication a été fermé. (0x6D)
+[0926/093150.713:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Program Files (x86)\Goldleaf\Reports\Dump: Le chemin d’accès spécifié est introuvable. (0x3)
+[0926/012016.818:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0926/064557.974:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0926/064958.478:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0927/032040.618:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0927/124831.453:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Program Files (x86)\Goldleaf\Reports\Dump: Le chemin d’accès spécifié est introuvable. (0x3)
+[0927/124831.462:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Le canal de communication a été fermé. (0x6D)
+[0927/124831.464:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Program Files (x86)\Goldleaf\Reports\Dump: Le chemin d’accès spécifié est introuvable. (0x3)
+[0927/140815.764:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Program Files (x86)\Goldleaf\Reports\Dump: Le chemin d’accès spécifié est introuvable. (0x3)
+[0927/140815.776:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Le canal de communication a été fermé. (0x6D)
+[0927/140815.776:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Program Files (x86)\Goldleaf\Reports\Dump: Le chemin d’accès spécifié est introuvable. (0x3)
+[0927/140826.065:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Program Files (x86)\Goldleaf\Reports\Dump: Le chemin d’accès spécifié est introuvable. (0x3)
+[0927/140826.073:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Le canal de communication a été fermé. (0x6D)
+[0927/140826.073:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Program Files (x86)\Goldleaf\Reports\Dump: Le chemin d’accès spécifié est introuvable. (0x3)
